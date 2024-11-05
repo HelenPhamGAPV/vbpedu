@@ -55,7 +55,7 @@ const footer = () => {
                     <div className="flex flex-shrink-0 items-center border-right">
                         {/* <img src={logo} style={{width: "56px", height: "56px"}} /> */}
                         <Link href="/" className='text-3xl font-semibold text-black'>
-                            VPBEdu
+                            VBPEdu
                         </Link>
                     </div>
                     <h3 className='text-textbl text-xs font-medium mt-5 mb-4 lg:mb-16'> Mở tài khoản trong vài phút, học vui cả đời</h3>
@@ -93,7 +93,7 @@ const footer = () => {
             {/* All Rights Reserved */}
 
             <div className='py-10 md:flex items-center justify-between border-t border-t-bordertop'>
-                <h4 className='text-darkgrey text-sm text-center md:text-start font-normal'>@2024 - VPBEdu. Mọi quyền được bảo lưu bởi <Link href="https://adminmart.com/" target="_blank"> Adminmart.com</Link></h4>
+                <h4 className='text-darkgrey text-sm text-center md:text-start font-normal'>@2024 - VBPEdu. Mọi quyền được bảo lưu bởi <Link href="https://adminmart.com/" target="_blank"> Adminmart.com</Link></h4>
                 <div className="flex gap-5 mt-5 md:mt-0 justify-center md:justify-start">
                     <h4 className='text-darkgrey text-sm font-normal'><Link href="/" target="_blank">Chính sách bảo mật</Link></h4>
                     <div className="h-5 bg-bordertop w-0.5"></div>

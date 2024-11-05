@@ -97,7 +97,7 @@ const Course = () => {
               triggerOnce={true}
             >
               <h3 className="text-3xl lg:text-5xl font-semibold text-black text-start">
-                Tại sao bạn nên học trên VPBEdu
+                Tại sao bạn nên học trên VBPEdu
               </h3>
             </Fade>
             <Fade

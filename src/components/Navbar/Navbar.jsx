@@ -33,13 +33,13 @@ const Navbar = () => {
                             <div className="flex sm:hidden flex-shrink-0 items-center border-right">
                                 {/* <img src={logo} alt="logo" style={{width: "36px", height: "36px"}} /> */}
                                 <Link href="/" className='text-3xl font-semibold text-black'>
-                                    VPBEdu
+                                    VBPEdu
                                 </Link>
                             </div>
                             <div className="hidden sm:flex flex-shrink-0 items-center border-right">
                                 {/* <img src={logo} alt="logo" style={{width: "56px", height: "56px"}} /> */}
                                 <Link href="/" className='text-3xl font-semibold text-black'>
-                                    VPBEdu
+                                    VBPEdu
                                 </Link>
                             </div>
 
