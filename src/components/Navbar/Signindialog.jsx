@@ -59,9 +59,9 @@ const Signin = () => {
                                         <div className="w-full max-w-md space-y-8">
                                             <div>
                                                 <div className="flex items-center justify-center">
-                                                    <img src="../../assets/images/Logo/Logo.svg" alt="logo" style={{width: "46px", height: "46px"}} />
-                                                    <Link href="/" className='text-2xl font-semibold text-black ml-4'>
-                                                        Chef&apos;s Kitchen
+                                                    {/* <img src="../../assets/images/Logo/Logo.svg" alt="logo" style={{width: "46px", height: "46px"}} /> */}
+                                                    <Link href="/" className='text-2xl font-semibold text-black'>
+                                                        VBPEdu
                                                     </Link>
                                                 </div>
                                                 <h2 className="mt-10 text-center text-3xl font-bold tracking-tight text-lightgrey">

@@ -25,9 +25,9 @@ const Drawer = ({ children, isOpen, setIsOpen }) => {
                     <header className="px-4 py-4 flex items-center justify-between">
 
                         <div className="flex flex-shrink-0 items-center border-right">
-                            <img src="../../assets/images/Logo/Logo.svg" alt="logo" style={{width: "36px", height: "36px"}} />
-                            <Link href="/" className='text-2xl font-semibold text-black ml-4'>
-                                Chef&apos;s Kitchen.
+                            {/* <img src="../../assets/images/Logo/Logo.svg" alt="logo" style={{width: "36px", height: "36px"}} /> */}
+                            <Link href="/" className='text-2xl font-semibold text-black'>
+                                VBPEdu
                             </Link>
                         </div>
 
